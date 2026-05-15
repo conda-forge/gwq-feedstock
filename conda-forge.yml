@@ -10,5 +10,4 @@ build_platform:
 provider:
   linux_aarch64: azure
   linux_64: azure
-  win_arm64: azure
 test: native_and_emulated
