@@ -1,5 +1,5 @@
 context:
-  version: "0.1.1"
+  version: "0.1.2"
 
 package:
   name: gwq
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/d-kuro/gwq/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: a9c01c670e3a1bf0c3c7d106bbc8ed483916cb94fa67a46542d189b3cb8170d8
+  sha256: 8b300535f6abdfc584c19f1cc4e1faf10f9ad323c324e098c9609a9696206ccc
   target_directory: src
 
 build:
